@@ -45,6 +45,6 @@ Electricity Billing System is a software-based application developed in Java pro
 3. Compile and run the Java code using an IDE or command line.
 
 ## Author
-Suryansh Chuabay
+Suryansh Chaubey
 
 Feel free to contribute to the project and enhance its features!
